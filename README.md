@@ -21,7 +21,7 @@ Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
 - Disqus Comments
 
 ## Installation
-In your Hugo website directory, create a new folder named theme and clone the repo
+In your Hugo website directory, create a new folder named `themes` and clone the repo
 ```bash
 $ mkdir themes
 $ cd themes
